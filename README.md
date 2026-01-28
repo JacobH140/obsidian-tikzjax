@@ -17,6 +17,9 @@ The following packages are available in `\usepackage{}`:
 - amsfonts
 - amssymb
 - tikz-3dplot
+- tangle
+- etoolbox
+- tikzit
 
 ## Usage
 Content inside of `tikz` code blocks will be rendered by TikZJax.
